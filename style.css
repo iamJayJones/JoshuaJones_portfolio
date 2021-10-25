@@ -1,0 +1,90 @@
+.navbar-brand {
+  font-size: 3rem !important;
+  color: red !important;
+}
+
+.nav-item {
+  padding-left: 50px;
+  font-size: 1.3rem;
+}
+
+.navbar-dark .navbar-nav .nav-link.active:hover {
+  color: red;
+}
+.mypic {
+  display: flex;
+  justify-content: center;
+}
+.me {
+  border-radius: 50%;
+  height: 500px;
+  width: 500px;
+  object-fit: cover;
+}
+
+.headings {
+  padding-top: 7%;
+  text-align: center;
+  color: #2a324b;
+}
+
+.sub-head {
+  color: red;
+  text-align: center;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  color: #000000;
+}
+
+.fab {
+  padding: 20px;
+  /* font-size: 0px; */
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fab:hover {
+  color: red;
+}
+
+#Home {
+  background-color: #e1e5ee;
+  height: 100vh;
+}
+
+#About {
+  background-color: #c7ccdb;
+  height: 100vh;
+}
+
+#Work {
+  background-color: #e1e5ee;
+  height: 100vh;
+}
+
+#Skills {
+  background-color: #c7ccdb;
+  height: 100vh;
+}
+
+#Projects {
+  background-color: #e1e5ee;
+  height: 100vh;
+}
+
+#Test {
+  background-color: #c7ccdb;
+  height: 100vh;
+}
+
+#Contact {
+  background-color: #e1e5ee;
+  height: 100vh;
+}
